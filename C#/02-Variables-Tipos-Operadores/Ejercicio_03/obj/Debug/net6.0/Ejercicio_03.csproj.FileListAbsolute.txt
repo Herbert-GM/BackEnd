@@ -1,0 +1,15 @@
+E:\Cursos\Back-End\C#\02-Variables-Tipos-Operadores\Ejercicio_03\bin\Debug\net6.0\Ejercicio_03.exe
+E:\Cursos\Back-End\C#\02-Variables-Tipos-Operadores\Ejercicio_03\bin\Debug\net6.0\Ejercicio_03.deps.json
+E:\Cursos\Back-End\C#\02-Variables-Tipos-Operadores\Ejercicio_03\bin\Debug\net6.0\Ejercicio_03.runtimeconfig.json
+E:\Cursos\Back-End\C#\02-Variables-Tipos-Operadores\Ejercicio_03\bin\Debug\net6.0\Ejercicio_03.dll
+E:\Cursos\Back-End\C#\02-Variables-Tipos-Operadores\Ejercicio_03\bin\Debug\net6.0\Ejercicio_03.pdb
+E:\Cursos\Back-End\C#\02-Variables-Tipos-Operadores\Ejercicio_03\obj\Debug\net6.0\Ejercicio_03.csproj.AssemblyReference.cache
+E:\Cursos\Back-End\C#\02-Variables-Tipos-Operadores\Ejercicio_03\obj\Debug\net6.0\Ejercicio_03.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\Back-End\C#\02-Variables-Tipos-Operadores\Ejercicio_03\obj\Debug\net6.0\Ejercicio_03.AssemblyInfoInputs.cache
+E:\Cursos\Back-End\C#\02-Variables-Tipos-Operadores\Ejercicio_03\obj\Debug\net6.0\Ejercicio_03.AssemblyInfo.cs
+E:\Cursos\Back-End\C#\02-Variables-Tipos-Operadores\Ejercicio_03\obj\Debug\net6.0\Ejercicio_03.csproj.CoreCompileInputs.cache
+E:\Cursos\Back-End\C#\02-Variables-Tipos-Operadores\Ejercicio_03\obj\Debug\net6.0\Ejercicio_03.dll
+E:\Cursos\Back-End\C#\02-Variables-Tipos-Operadores\Ejercicio_03\obj\Debug\net6.0\refint\Ejercicio_03.dll
+E:\Cursos\Back-End\C#\02-Variables-Tipos-Operadores\Ejercicio_03\obj\Debug\net6.0\Ejercicio_03.pdb
+E:\Cursos\Back-End\C#\02-Variables-Tipos-Operadores\Ejercicio_03\obj\Debug\net6.0\Ejercicio_03.genruntimeconfig.cache
+E:\Cursos\Back-End\C#\02-Variables-Tipos-Operadores\Ejercicio_03\obj\Debug\net6.0\ref\Ejercicio_03.dll
