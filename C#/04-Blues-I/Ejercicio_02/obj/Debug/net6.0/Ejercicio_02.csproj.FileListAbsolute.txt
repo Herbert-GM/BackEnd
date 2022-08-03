@@ -1,0 +1,15 @@
+E:\Cursos\Back-End\C#\04-Blues-I\Ejercicio_02\bin\Debug\net6.0\Ejercicio_02.exe
+E:\Cursos\Back-End\C#\04-Blues-I\Ejercicio_02\bin\Debug\net6.0\Ejercicio_02.deps.json
+E:\Cursos\Back-End\C#\04-Blues-I\Ejercicio_02\bin\Debug\net6.0\Ejercicio_02.runtimeconfig.json
+E:\Cursos\Back-End\C#\04-Blues-I\Ejercicio_02\bin\Debug\net6.0\Ejercicio_02.dll
+E:\Cursos\Back-End\C#\04-Blues-I\Ejercicio_02\bin\Debug\net6.0\Ejercicio_02.pdb
+E:\Cursos\Back-End\C#\04-Blues-I\Ejercicio_02\obj\Debug\net6.0\Ejercicio_02.csproj.AssemblyReference.cache
+E:\Cursos\Back-End\C#\04-Blues-I\Ejercicio_02\obj\Debug\net6.0\Ejercicio_02.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\Back-End\C#\04-Blues-I\Ejercicio_02\obj\Debug\net6.0\Ejercicio_02.AssemblyInfoInputs.cache
+E:\Cursos\Back-End\C#\04-Blues-I\Ejercicio_02\obj\Debug\net6.0\Ejercicio_02.AssemblyInfo.cs
+E:\Cursos\Back-End\C#\04-Blues-I\Ejercicio_02\obj\Debug\net6.0\Ejercicio_02.csproj.CoreCompileInputs.cache
+E:\Cursos\Back-End\C#\04-Blues-I\Ejercicio_02\obj\Debug\net6.0\Ejercicio_02.dll
+E:\Cursos\Back-End\C#\04-Blues-I\Ejercicio_02\obj\Debug\net6.0\refint\Ejercicio_02.dll
+E:\Cursos\Back-End\C#\04-Blues-I\Ejercicio_02\obj\Debug\net6.0\Ejercicio_02.pdb
+E:\Cursos\Back-End\C#\04-Blues-I\Ejercicio_02\obj\Debug\net6.0\Ejercicio_02.genruntimeconfig.cache
+E:\Cursos\Back-End\C#\04-Blues-I\Ejercicio_02\obj\Debug\net6.0\ref\Ejercicio_02.dll
